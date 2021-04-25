@@ -15,6 +15,7 @@ namespace HRM.MVC.Controllers
         //update
         private readonly ILogger<HomeController> _logger;
         //updated added
+        //added
         
 
         public HomeController(ILogger<HomeController> logger)
